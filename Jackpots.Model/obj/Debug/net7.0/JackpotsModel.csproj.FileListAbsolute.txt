@@ -1,0 +1,12 @@
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\bin\Debug\net7.0\JackpotsModel.deps.json
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\bin\Debug\net7.0\JackpotsModel.dll
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\bin\Debug\net7.0\JackpotsModel.pdb
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\JackpotsModel.csproj.AssemblyReference.cache
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\JackpotsModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\JackpotsModel.AssemblyInfoInputs.cache
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\JackpotsModel.AssemblyInfo.cs
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\JackpotsModel.csproj.CoreCompileInputs.cache
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\JackpotsModel.dll
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\refint\JackpotsModel.dll
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\JackpotsModel.pdb
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\ref\JackpotsModel.dll

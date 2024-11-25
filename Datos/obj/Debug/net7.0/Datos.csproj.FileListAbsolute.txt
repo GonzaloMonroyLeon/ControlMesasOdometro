@@ -1,0 +1,30 @@
+C:\Users\gonzalo.monroy\source\repos\Datos\obj\Debug\net7.0\Datos.csproj.AssemblyReference.cache
+C:\Users\gonzalo.monroy\source\repos\Datos\obj\Debug\net7.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzalo.monroy\source\repos\Datos\obj\Debug\net7.0\Datos.AssemblyInfoInputs.cache
+C:\Users\gonzalo.monroy\source\repos\Datos\obj\Debug\net7.0\Datos.AssemblyInfo.cs
+C:\Users\gonzalo.monroy\source\repos\Datos\obj\Debug\net7.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\gonzalo.monroy\source\repos\Datos\bin\Debug\net7.0\Datos.deps.json
+C:\Users\gonzalo.monroy\source\repos\Datos\bin\Debug\net7.0\Datos.dll
+C:\Users\gonzalo.monroy\source\repos\Datos\bin\Debug\net7.0\Datos.pdb
+C:\Users\gonzalo.monroy\source\repos\Datos\bin\Debug\net7.0\ControlMesasOdometroModel.dll
+C:\Users\gonzalo.monroy\source\repos\Datos\bin\Debug\net7.0\ControlMesasOdometroModel.pdb
+C:\Users\gonzalo.monroy\source\repos\Datos\obj\Debug\net7.0\Datos.csproj.Up2Date
+C:\Users\gonzalo.monroy\source\repos\Datos\obj\Debug\net7.0\Datos.dll
+C:\Users\gonzalo.monroy\source\repos\Datos\obj\Debug\net7.0\refint\Datos.dll
+C:\Users\gonzalo.monroy\source\repos\Datos\obj\Debug\net7.0\Datos.pdb
+C:\Users\gonzalo.monroy\source\repos\Datos\obj\Debug\net7.0\ref\Datos.dll
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Datos\bin\Debug\net7.0\Datos.deps.json
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Datos\bin\Debug\net7.0\Datos.dll
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Datos\bin\Debug\net7.0\Datos.pdb
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Datos\bin\Debug\net7.0\ControlMesasOdometroModel.dll
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Datos\bin\Debug\net7.0\ControlMesasOdometroModel.pdb
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Datos\obj\Debug\net7.0\Datos.csproj.AssemblyReference.cache
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Datos\obj\Debug\net7.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Datos\obj\Debug\net7.0\Datos.AssemblyInfoInputs.cache
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Datos\obj\Debug\net7.0\Datos.AssemblyInfo.cs
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Datos\obj\Debug\net7.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Datos\obj\Debug\net7.0\Datos.csproj.Up2Date
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Datos\obj\Debug\net7.0\Datos.dll
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Datos\obj\Debug\net7.0\refint\Datos.dll
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Datos\obj\Debug\net7.0\Datos.pdb
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Datos\obj\Debug\net7.0\ref\Datos.dll

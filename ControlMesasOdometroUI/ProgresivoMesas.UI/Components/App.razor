@@ -1,0 +1,48 @@
+﻿@inject ControlMesasOdometroService ControlMesas
+@using ProgresivoMesasOdometro.UI.Components;
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<base href="/" />
+	<link rel="stylesheet" href="bootstrap/bootstrap.min.css" />
+	<link rel="stylesheet" href="app.css" />
+	<link rel="stylesheet" href="ProgresivoMesas.UI.styles.css" />
+	<link rel="icon" type="image/png" href="favicon.png" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/odometer.js/0.4.8/themes/odometer-theme-car.min.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/odometer.js/0.4.8/odometer.min.js"></script>
+	<HeadOutlet @rendermode="InteractiveServer" />
+</head>
+
+<body>
+	<Routes @rendermode="InteractiveServer" />
+	<script src="_framework/blazor.web.js"></script>
+	<script>
+	function initializeOdometers(escaleraReal, escaleraColor) {
+	const odometer1 = new Odometer({
+		el: document.getElementById('odometer1'),
+		value: escaleraReal,
+		format: '(.ddd),dd'
+	});
+
+	const odometer2 = new Odometer({
+		el: document.getElementById('odometer2'),
+		value: escaleraColor,
+		format: '(.ddd),dd'
+	});
+}
+
+function updateOdometers(realDifference, colorDifference) {
+	const odometer1 = document.getElementById('odometer1').odometer;
+	const odometer2 = document.getElementById('odometer2').odometer;
+
+	if (odometer1) odometer1.update(odometer1.value + realDifference);
+	if (odometer2) odometer2.update(odometer2.value + colorDifference);
+}
+
+	</script>
+</body>
+
+</html>

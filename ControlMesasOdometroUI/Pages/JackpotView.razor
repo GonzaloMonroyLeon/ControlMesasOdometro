@@ -1,0 +1,29 @@
+﻿@page "/jackpots"
+@using JackpotApi.Models
+@using MudBlazor
+@inject JackpotService JackpotService
+
+
+<MudContainer>
+    <MudTable Items="@jackpots" Striped="true" Bordered="true">
+        <HeaderContent>
+            <MudTh>Tipo de Juego</MudTh>
+            <MudTh>Nombre del Juego</MudTh>
+            <MudTh>Valor Visual</MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd DataLabel="Tipo de Juego">@context.TypeGameId</MudTd>
+            <MudTd DataLabel="Nombre del Juego">@context.NameWin</MudTd>
+            <MudTd DataLabel="Valor Visual">@context.VisualValue</MudTd>
+        </RowTemplate>
+    </MudTable>
+</MudContainer>
+
+@code {
+    private List<Jackpot> jackpots;
+
+    protected override async Task OnInitializedAsync()
+    {
+        jackpots = await JackpotService.GetJackpotsAsync();
+    }
+}

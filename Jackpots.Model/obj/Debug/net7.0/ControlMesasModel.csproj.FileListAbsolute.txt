@@ -1,0 +1,12 @@
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\bin\Debug\net7.0\ControlMesasModel.deps.json
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\bin\Debug\net7.0\ControlMesasModel.dll
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\bin\Debug\net7.0\ControlMesasModel.pdb
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\ControlMesasModel.csproj.AssemblyReference.cache
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\ControlMesasModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\ControlMesasModel.AssemblyInfoInputs.cache
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\ControlMesasModel.AssemblyInfo.cs
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\ControlMesasModel.csproj.CoreCompileInputs.cache
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\ControlMesasModel.dll
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\refint\ControlMesasModel.dll
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\ControlMesasModel.pdb
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\ref\ControlMesasModel.dll

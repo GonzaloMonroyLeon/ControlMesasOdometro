@@ -1,0 +1,24 @@
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\ControlMesasOdometroModel.csproj.AssemblyReference.cache
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\ControlMesasOdometroModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\ControlMesasOdometroModel.AssemblyInfoInputs.cache
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\ControlMesasOdometroModel.AssemblyInfo.cs
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\ControlMesasOdometroModel.csproj.CoreCompileInputs.cache
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\bin\Debug\net7.0\ControlMesasOdometroModel.deps.json
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\bin\Debug\net7.0\ControlMesasOdometroModel.dll
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\bin\Debug\net7.0\ControlMesasOdometroModel.pdb
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\ControlMesasOdometroModel.dll
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\refint\ControlMesasOdometroModel.dll
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\ControlMesasOdometroModel.pdb
+C:\Users\gonzalo.monroy\source\repos\Jackpots.Model\obj\Debug\net7.0\ref\ControlMesasOdometroModel.dll
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Jackpots.Model\bin\Debug\net7.0\ControlMesasOdometroModel.deps.json
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Jackpots.Model\bin\Debug\net7.0\ControlMesasOdometroModel.dll
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Jackpots.Model\bin\Debug\net7.0\ControlMesasOdometroModel.pdb
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Jackpots.Model\obj\Debug\net7.0\ControlMesasOdometroModel.csproj.AssemblyReference.cache
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Jackpots.Model\obj\Debug\net7.0\ControlMesasOdometroModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Jackpots.Model\obj\Debug\net7.0\ControlMesasOdometroModel.AssemblyInfoInputs.cache
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Jackpots.Model\obj\Debug\net7.0\ControlMesasOdometroModel.AssemblyInfo.cs
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Jackpots.Model\obj\Debug\net7.0\ControlMesasOdometroModel.csproj.CoreCompileInputs.cache
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Jackpots.Model\obj\Debug\net7.0\ControlMesasOdometroModel.dll
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Jackpots.Model\obj\Debug\net7.0\refint\ControlMesasOdometroModel.dll
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Jackpots.Model\obj\Debug\net7.0\ControlMesasOdometroModel.pdb
+C:\Users\gonzalo.monroy\source\repos\ControlMesasOdometro V1.0\Jackpots.Model\obj\Debug\net7.0\ref\ControlMesasOdometroModel.dll

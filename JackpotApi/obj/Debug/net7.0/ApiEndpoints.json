@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "JackpotApi.Controllers.JackpotController",
+    "Method": "GetJackpots",
+    "RelativePath": "api/Jackpot/GetVistaJackPot",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

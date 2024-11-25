@@ -1,0 +1,75 @@
+﻿@page "/"
+@inject ControlMesasOdometroService ControlMesasService
+@inject IJSRuntime JS
+@using ControlMesasOdometro.ControlMesasOdometro;
+@inject HttpClient Http
+
+<div class="contenedor">
+    <video id="video-fondo" autoplay muted loop>
+        <source src="Video/Mesas.mp4" type="video/mp4">
+        Tu navegador no soporta el elemento de video.
+    </video>
+    <div class="escalera-real">
+        <div class="signo">$</div>
+        <div id="odometer1" class="odometer">@EscaleraReal</div>
+    </div>
+    <div class="escalera-color">
+        <div class="signo2" id="signo2">$</div>
+        <div id="odometer2" class="odometer">@EscaleraColor</div>
+    </div>
+</div>
+
+@code {
+    private decimal EscaleraReal { get; set; }
+    private decimal EscaleraColor { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Suscríbete al evento del servicio
+        ControlMesasService.OnDataUpdated += ActualizarVista;
+
+        // Inicia la actualización periódica
+        ControlMesasService.StartDataRefresh();
+
+        // Carga inicial
+        await CargarDatos();
+    }
+
+    private void ActualizarVista()
+    {
+        var escaleraReal = ControlMesasService.CurrentJackpots.FirstOrDefault(x => x.NameWin == "Escalera Real");
+        var escaleraColor = ControlMesasService.CurrentJackpots.FirstOrDefault(x => x.NameWin == "Escalera Color");
+
+        EscaleraReal = escaleraReal?.VisualValue ?? 0;
+        EscaleraColor = escaleraColor?.VisualValue ?? 0;
+
+        InvokeAsync(StateHasChanged); // Actualiza la interfaz
+    }
+
+    private async Task CargarDatos()
+    {
+        try
+        {
+            var jackpots = await ControlMesasService.GetJackpotAsync("GetVistaJackPot");
+
+            var escaleraReal = jackpots.FirstOrDefault(x => x.NameWin == "Escalera Real");
+            var escaleraColor = jackpots.FirstOrDefault(x => x.NameWin == "Escalera Color");
+
+            EscaleraReal = escaleraReal?.VisualValue ?? 0;
+            EscaleraColor = escaleraColor?.VisualValue ?? 0;
+
+            // Invoca JavaScript para inicializar los odómetros
+            await JS.InvokeVoidAsync("initializeOdometers", EscaleraReal, EscaleraColor);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error al cargar los datos: {ex.Message}");
+        }
+    }
+
+    public void Dispose()
+    {
+        ControlMesasService.OnDataUpdated -= ActualizarVista; // Elimina la suscripción al evento
+        ControlMesasService.StopDataRefresh(); // Detiene el temporizador
+    }
+}
